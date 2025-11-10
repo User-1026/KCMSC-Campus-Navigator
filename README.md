@@ -27,18 +27,3 @@ To create a simple text-based Campus Tour program that lets users:
 
 2. Run the program:
     python3 main.py
-
-📁 File Structure
-CampusTourGuide/
-│
-├── main.py              # main program logic
-├── data.py              # map and floor info
-├── logic.py             # functions and routing
-├── ascii_maps/          # ASCII maps of each floor
-├── README.md            # project overview
-├── .gitignore           # ignored files
-└── requirements.txt     # dependencies
-
-⚖️ License
-
-MIT License — free to use and modify.
