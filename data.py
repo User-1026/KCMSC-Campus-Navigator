@@ -42,4 +42,23 @@ campus_data = {
         "⭐ Room 313 — English Version Co-ordinator's Room (junior section)",
         "⭐ Teacher's common room"
     ],
+
+    "Floor 3": [
+        {"room": "401", "class": "Four", "section": "ka", "version": "Bangla"},
+        {"room": "402", "class": "Four", "section": "kha", "version": "Bangla"},
+        {"room": "403", "class": "Four", "section": "ga", "version": "Bangla"},
+        {"room": "404", "class": "Four", "section": "gha", "version": "Bangla"},
+        {"room": "405", "class": "Four", "section": "A", "version": "English"},
+        {"room": "406", "class": "Four", "section": "B", "version": "English"},
+        {"room": "407", "class": "Four", "section": "C", "version": "English"},
+        {"room": "408", "class": "Three", "section": "ka", "version": "Bangla"},
+        {"room": "409", "class": "Three", "section": "kha", "version": "Bangla"},
+        {"room": "410", "class": "Three", "section": "ga", "version": "Bangla"},
+        {"room": "411", "class": "Three", "section": "A", "version": "English"},
+        {"room": "412", "class": "Three", "section": "B", "version": "English"},
+        {"room": "413", "class": "Three", "Section": "C", "version": "English"},
+    ],
+    "Highlights": [
+        "⭐ Teacher's Common Room"
+    ],
 }
